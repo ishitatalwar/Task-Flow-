@@ -22,9 +22,10 @@ git clone https://github.com/ishitatalwar/Task-Flow-.git
 
 Open the index.html file in your visual stdio cde to start using the application.
 
-1.Add tasks with a simple click.
-2.Mark tasks s completed by clicking on the checkbox.
-3.Delete tasks by clicking on the cross icon.
+## Usage 
+1. Add tasks with a simple click.
+2. Mark tasks s completed by clicking on the checkbox.
+3. Delete tasks by clicking on the cross icon.
 
-License
+## License
 Distributed under the MIT License. See LICENSE for more information.
