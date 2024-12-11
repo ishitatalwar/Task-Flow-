@@ -27,5 +27,3 @@ Open the index.html file in your visual stdio cde to start using the application
 2. Mark tasks s completed by clicking on the checkbox.
 3. Delete tasks by clicking on the cross icon.
 
-## License
-Distributed under the MIT License. See LICENSE for more information.
